@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# 图解代码见报告
+# 图解代码见readme
 class Neure:  # 定义神经元类
 
     def __init__(self, input_data=None, input_data_weight=None, offset=None, activate_function='tanh',
