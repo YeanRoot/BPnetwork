@@ -1,7 +1,8 @@
 # BPnetwork
 不使用工具库（如pytorch，TensorFlow，numpy等）实现bp网络
 既然要构建神经网络，首先我的思路是构建一个神经元类(Neure)：
- 
+ ![image](https://github.com/YeanRoot/BPnetwork/tree/main/image/图片1.png)
+
 对应代码如下：
 
  
